@@ -1,0 +1,109 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+/* Ajoutez vos autres styles ici */
+/* Styles communs */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+/* Styles spécifiques */
+section {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+body {
+    background-image: url('C:/Users/Setup Game/Desktop/moto.shop.maroc/unnamed.png');
+    background-size: contain; /* Préserve les proportions de l'image */
+    background-position: center;
+    background-repeat: no-repeat; /* Empêche la répétition de l'image */
+    background-attachment: fixed; /* Fixe l'image en arrière-plan lors du défilement */
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-style: italic;
+    font-weight: 400;
+  }
+  body {
+    background-image: url('C:\Users\Setup Game\Desktop\moto.shop.maroc\unnamed.png');
+    background-size: cover;
+    background-position: center;
+    background-color: #f0f0f0; /* Ajustez la couleur selon votre image */
+  }
+  body {
+    background-image: url('C:\Users\Setup Game\Desktop\moto.shop.maroc\unnamed.png');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .cadre-photo {
+    position: relative;
+    width: 80%;
+    margin: 50px auto;
+    border: 10px solid #fff;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  }
+  
+  .cadre-photo::before,
+  .cadre-photo::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 10px;
+    background-color: #fff;
+  }
+  
+  .cadre-photo::before {
+    top: -10px;
+  }
+  
+  .cadre-photo::after {
+    bottom: -10px;
+  }
+  body {
+    background-color: red;
+ }
+ body {
+    background-image: url("C:/Users/Setup Game/Desktop/moto.shop.maroc/unnamed.png");
+    background-size: contain; /* Pour éviter de déformer l'image */
+    background-position: center;
+    background-repeat: no-repeat; /* Pour éviter de répéter l'image */
+    background-color: #f0f0f0; /* Couleur de fond neutre */
+  }
+  
+
+
